@@ -26,7 +26,7 @@ This project implements a virtual mouse using OpenCV and computer vision techniq
 
 1.  **Run the virtual mouse script:**
     
-    `python virtual_mouse.py 
+    `python virtual_mouse.py` 
     
 2.  **Configuration:**
     
