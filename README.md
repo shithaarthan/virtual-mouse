@@ -30,7 +30,7 @@ This project implements a virtual mouse using OpenCV and computer vision techniq
     
 2.  **Configuration:**
     
-    -  -   Adjust the sensitivity and other parameters in the `virtual_mouse.py ` file to suit your needs.
+    -    Adjust the sensitivity and other parameters in the `virtual_mouse.py ` file to suit your needs.
 3.  **Integrating with Multiple Cameras:**
     
     -   Modify the `camera_sources` list in `virtual_mouse.py ` to include URLs or device indices of the cameras.
